@@ -1,0 +1,10 @@
+---
+projectName: WurstAstar
+dependencies:
+- https://github.com/wurstscript/wurstStdlib2
+- https://github.com/Cokemonkey11/WurstLinkedComparisonHashMap.git
+- https://github.com/Cokemonkey11/WurstRealHeapGuard.git
+buildMapData:
+  name: MyMapName
+  fileName: MyMapFile
+  author: Cokemonkey11
